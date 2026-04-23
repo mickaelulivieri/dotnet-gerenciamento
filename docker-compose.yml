@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: task-db
+    restart: always
+    environment:
+      MYSQL_DATABASE: taskmanager
+      MYSQL_ROOT_PASSWORD: senha
+      MYSQL_ROOT_HOST: "%"
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  api:
+    build: ./TaskManager.API
+    container_name: task-api
+    restart: always
+    ports:
+      - "5000:80"
+    environment:
+      - ConnectionStrings__DefaultConnection=server=db;port=3306;database=taskmanager;user=root;password=senha
+    depends_on:
+      - db
+
+  frontend:
+    build: ./task-manager-web
+    container_name: task-web
+    restart: always
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
+
+volumes:
+  mysql_data:

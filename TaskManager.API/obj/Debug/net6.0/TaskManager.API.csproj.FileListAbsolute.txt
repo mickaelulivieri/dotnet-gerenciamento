@@ -1,0 +1,113 @@
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/appsettings.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.staticwebassets.endpoints.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.exe
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.deps.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.runtimeconfig.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.pdb
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.csproj.AssemblyReference.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/rpswa.dswa.cache.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.AssemblyInfoInputs.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.AssemblyInfo.cs
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.csproj.CoreCompileInputs.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.sourcelink.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/rjimswa.dswa.cache.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/rjsmrazor.dswa.cache.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/rjsmcshtml.dswa.cache.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/scopedcss/bundle/TaskManager.API.styles.css
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/staticwebassets.build.json.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/swae.build.ex.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskMana.FE476EE3.Up2Date
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/refint/TaskManager.API.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.pdb
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.genruntimeconfig.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C#/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/ref/TaskManager.API.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/appsettings.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.staticwebassets.endpoints.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.exe
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.deps.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.runtimeconfig.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/TaskManager.API.pdb
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.csproj.AssemblyReference.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/rpswa.dswa.cache.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.AssemblyInfoInputs.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.AssemblyInfo.cs
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.csproj.CoreCompileInputs.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.sourcelink.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/rjimswa.dswa.cache.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/rjsmrazor.dswa.cache.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/rjsmcshtml.dswa.cache.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/scopedcss/bundle/TaskManager.API.styles.css
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/staticwebassets.build.json.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/swae.build.ex.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskMana.FE476EE3.Up2Date
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/refint/TaskManager.API.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.pdb
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/TaskManager.API.genruntimeconfig.cache
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/obj/Debug/net6.0/ref/TaskManager.API.dll
+C:/Users/Micka/OneDrive/Área de Trabalho/Estudos backend/C-sharp/desafio-tarefas/TaskManager.API/bin/Debug/net6.0/dotnet-tools.json
+/app/TaskManager.API/bin/Debug/net6.0/appsettings.Development.json
+/app/TaskManager.API/bin/Debug/net6.0/appsettings.json
+/app/TaskManager.API/bin/Debug/net6.0/dotnet-tools.json
+/app/TaskManager.API/bin/Debug/net6.0/TaskManager.API
+/app/TaskManager.API/bin/Debug/net6.0/TaskManager.API.deps.json
+/app/TaskManager.API/bin/Debug/net6.0/TaskManager.API.runtimeconfig.json
+/app/TaskManager.API/bin/Debug/net6.0/TaskManager.API.dll
+/app/TaskManager.API/bin/Debug/net6.0/TaskManager.API.pdb
+/app/TaskManager.API/bin/Debug/net6.0/AutoMapper.dll
+/app/TaskManager.API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/app/TaskManager.API/bin/Debug/net6.0/Humanizer.dll
+/app/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/app/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/app/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/app/TaskManager.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/app/TaskManager.API/bin/Debug/net6.0/MySqlConnector.dll
+/app/TaskManager.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.csproj.AssemblyReference.cache
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.GeneratedMSBuildEditorConfig.editorconfig
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.AssemblyInfoInputs.cache
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.AssemblyInfo.cs
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.csproj.CoreCompileInputs.cache
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.MvcApplicationPartsAssemblyInfo.cache
+/app/TaskManager.API/obj/Debug/net6.0/staticwebassets.build.json
+/app/TaskManager.API/obj/Debug/net6.0/staticwebassets.development.json
+/app/TaskManager.API/obj/Debug/net6.0/scopedcss/bundle/TaskManager.API.styles.css
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.csproj.CopyComplete
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.dll
+/app/TaskManager.API/obj/Debug/net6.0/refint/TaskManager.API.dll
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.pdb
+/app/TaskManager.API/obj/Debug/net6.0/TaskManager.API.genruntimeconfig.cache
+/app/TaskManager.API/obj/Debug/net6.0/ref/TaskManager.API.dll
