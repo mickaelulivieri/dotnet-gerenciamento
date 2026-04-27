@@ -21,6 +21,7 @@ namespace TaskManager.API.Services
             _mapper = mapper;
         }
 
+        // GET ALL
         public async Task<List<TaskResponseDTO>> GetAllAsync()
         {
             try 
@@ -33,6 +34,7 @@ namespace TaskManager.API.Services
                 throw new BadRequestException($"Erro ao carregar tarefas: {ex.Message}");
             }
         }
+                // GET BY ID
 
         public async Task<TaskResponseDTO?> GetByIdAsync(int id)
         {
@@ -51,6 +53,7 @@ namespace TaskManager.API.Services
             }
         }
 
+        // GET USER ID
         public async Task<List<TaskResponseDTO>> GetByUserIdAsync(int userId)
         {
             try
@@ -63,6 +66,8 @@ namespace TaskManager.API.Services
                 throw new BadRequestException($"Erro ao buscar tarefas do usuário: {ex.Message}");
             }
         }
+
+        // CREATE
 
         public async Task<TaskResponseDTO> CreateAsync(TaskCreateDTO dto)
         {
@@ -78,6 +83,7 @@ namespace TaskManager.API.Services
                 throw new BadRequestException($"Erro ao criar nova tarefa: {ex.Message}");
             }
         }
+                // UPDATE
 
         public async Task<bool> UpdateAsync(int id, TaskUpdateDTO dto)
         {
@@ -98,6 +104,7 @@ namespace TaskManager.API.Services
             }
         }
 
+        // DELETE
         public async Task<bool> DeleteAsync(int id)
         {
             try

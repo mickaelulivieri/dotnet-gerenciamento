@@ -21,12 +21,11 @@ namespace TaskManager.API.Exceptions
         {
             try
             {
-                // Deixa a requisição seguir o fluxo normal
                 await _next(httpContext);
             }
             catch (Exception ex)
             {
-                // Se der erro em qualquer lugar (Service ou Repo), cai aqui
+                // caso de erro, é capturado aqui
                 _logger.LogError($"Erro capturado pelo Middleware: {ex}");
                 await HandleExceptionAsync(httpContext, ex);
             }
@@ -36,11 +35,11 @@ namespace TaskManager.API.Exceptions
         {
             context.Response.ContentType = "application/json";
 
-            // Define valores padrão (Erro 500)
+            // Define erro 500
             var statusCode = (int)HttpStatusCode.InternalServerError;
             var message = "Ocorreu um erro interno no servidor.";
 
-            // Mapeia suas exceções customizadas para os códigos HTTP certos
+            // mapeia http
             if (exception is NotFoundException)
             {
                 statusCode = (int)HttpStatusCode.NotFound;
@@ -54,14 +53,14 @@ namespace TaskManager.API.Exceptions
 
             context.Response.StatusCode = statusCode;
 
-            // Cria o objeto de erro que o React vai ler
+            // objeto de erro pro react
             var response = new ErrorResponse
             {
                 StatusCode = statusCode,
                 Message = message
             };
 
-            // Transforma em JSON e envia para o navegador usando o ToString() que você criou
+            // Transforma em JSON e envia para o navegador usando o ToString()
             return context.Response.WriteAsync(response.ToString());
         }
     }
