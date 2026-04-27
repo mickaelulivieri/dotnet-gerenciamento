@@ -1,19 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using AutoMapper;
 using TaskManager.API.DTOs;
 using TaskManager.API.DTOs.user;
-using TaskManager.API.Mappings;
+using TaskManager.API.Exceptions;
 using TaskManager.API.model;
 using TaskManager.API.Repositories;
 
 namespace TaskManager.API.Services
 {
-
-    // INDEPENDENCY INJECTION
-     public class UserService
+    public class UserService
     {
         private readonly IUserRepository _repo;
         private readonly IMapper _mapper;
@@ -24,57 +18,99 @@ namespace TaskManager.API.Services
             _mapper = mapper;
         }
 
-        // METHODS
-
         // GET ALL
         public async Task<List<UserResponseDTO>> GetAllAsync()
         {
-            var users = await _repo.GetAllAsync();
-            return _mapper.Map<List<UserResponseDTO>>(users);
+            try
+            {
+                var users = await _repo.GetAllAsync();
+                return _mapper.Map<List<UserResponseDTO>>(users);
+            }
+            catch (Exception ex)
+            {
+                throw new BadRequestException($"Erro ao buscar usuários: {ex.Message}");
+            }
         }
 
         // GET BY ID
         public async Task<UserResponseDTO?> GetByIdAsync(int id)
         {
-            var user = await _repo.GetByIdAsync(id);
-            if (user == null) return null;
+            try
+            {
+                var user = await _repo.GetByIdAsync(id);
 
-            return _mapper.Map<UserResponseDTO>(user);
+                if (user == null)
+                    throw new NotFoundException($"Usuário {id} não encontrado.");
+
+                return _mapper.Map<UserResponseDTO>(user);
+            }
+            catch (NotFoundException) { throw; }
+            catch (Exception ex)
+            {
+                throw new BadRequestException($"Erro ao buscar usuário: {ex.Message}");
+            }
         }
 
         // CREATE
         public async Task<UserResponseDTO> CreateAsync(UserCreateDTO dto)
         {
-            var user = _mapper.Map<User>(dto);
+            try
+            {
+                var user = _mapper.Map<User>(dto);
 
-            await _repo.AddAsync(user);
-            await _repo.SaveAsync();
+                await _repo.AddAsync(user);
+                await _repo.SaveAsync();
 
-            return _mapper.Map<UserResponseDTO>(user);
+                return _mapper.Map<UserResponseDTO>(user);
+            }
+            catch (Exception ex)
+            {
+                throw new BadRequestException($"Erro ao criar usuário: {ex.Message}");
+            }
         }
 
         // DELETE
         public async Task<bool> DeleteAsync(int id)
         {
-            var user = await _repo.GetByIdAsync(id);
-            if (user == null) return false;
+            try
+            {
+                var user = await _repo.GetByIdAsync(id);
 
-            _repo.Delete(user);
-            await _repo.SaveAsync();
+                if (user == null)
+                    throw new NotFoundException($"Usuário {id} não encontrado.");
 
-            return true;
+                _repo.Delete(user);
+                await _repo.SaveAsync();
+
+                return true;
+            }
+            catch (NotFoundException) { throw; }
+            catch (Exception ex)
+            {
+                throw new BadRequestException($"Erro ao deletar usuário: {ex.Message}");
+            }
         }
 
         // UPDATE
         public async Task<bool> UpdateAsync(int id, UserUpdateDTO dto)
         {
-            var user = await _repo.GetByIdAsync(id);
-            if (user == null) return false;
+            try
+            {
+                var user = await _repo.GetByIdAsync(id);
 
-            _mapper.Map(dto, user);
-            await _repo.SaveAsync();
+                if (user == null)
+                    throw new NotFoundException($"Usuário {id} não encontrado.");
 
-            return true;
+                _mapper.Map(dto, user);
+                await _repo.SaveAsync();
+
+                return true;
+            }
+            catch (NotFoundException) { throw; }
+            catch (Exception ex)
+            {
+                throw new BadRequestException($"Erro ao atualizar usuário: {ex.Message}");
+            }
         }
     }
 }
